@@ -12,7 +12,7 @@
 ## Demo
 
 ![demo](https://raw.githubusercontent.com/dboooloi02-crypto/agent-trader-lite/main/docs/demo.gif)
-*↑ 终端运行 python agent.py，自动抓取数据并输出报告*
+*↑ 终端运行 python agent.py，自动抓取数据并输出报告（如果预览有空白字符，点开 GIF 查看）*
 
 ---
 
